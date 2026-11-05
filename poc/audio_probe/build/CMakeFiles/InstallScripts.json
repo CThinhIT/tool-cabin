@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/Tool/Trans/poc/audio_probe/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

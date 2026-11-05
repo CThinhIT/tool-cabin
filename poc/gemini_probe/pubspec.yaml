@@ -1,0 +1,16 @@
+name: gemini_probe
+description: >-
+  Phase 1 smoke test for Gemini Live Translate (vi <-> en) over a raw
+  WebSocket: latency, transcripts, and 2-concurrent-session check.
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  args: ^2.6.0
+
+dev_dependencies:
+  lints: ^5.1.0
+  test: ^1.25.0
